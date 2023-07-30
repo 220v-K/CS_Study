@@ -51,3 +51,5 @@ Singly(Linear) Linked List와 동일.
 - (tail pointer가 없을 시의) Singly/Doubly Linked List보다, List의 끝에 삽입하는 데 더욱 효율적.
 
 (array는 Stack 영역, linked list는 heap 영역)
+
+![Untitled](https://github.com/220v-K/CS_Study/assets/82885362/69048dce-1ca9-459d-941d-75ad348ba09d)
